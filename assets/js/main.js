@@ -22,10 +22,10 @@ var main = (function($) { var _ = {
 			layoutDuration: 750,
 
 		// Thumbnails per "row" (must match "misc.thumbnails-per-row" in _vars.scss).
-			thumbnailsPerRow: 2,
+			thumbnailsPerRow: 1,
 
 		// Side of main wrapper (must match "misc.main-side" in _vars.scss).
-			mainSide: 'right'
+			mainSide: 'left'
 
 	},
 
