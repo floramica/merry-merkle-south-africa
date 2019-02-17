@@ -14,14 +14,14 @@ header: "Merry Merkle"
 # 2nd heading/sub heading of the website.
 subheader: "South Africa"
 # A description/bio of the website.
-bio: "A collection of impressions from Merry Merkle South Africa 2018."
+bio: "A collection of impressions from Merry Merkle in South Africa December 2018." For more visit merrymerkle.africa
 social:
   # Your Twitter username.
-  twitter_username: "MerryMerkleSouthAfrica"
+  twitter_username: "MerkleMerry"
   # Your Instagram username.
   instagram_username: ""
   # GitHub username.
-  github_username: "Gabriellemic"
+  github_username: "https://github.com/gabriellemic/merry-merkle-south-africa"
   # Your email address.
   email: ""
 
