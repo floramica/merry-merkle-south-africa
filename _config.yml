@@ -1,0 +1,40 @@
+## Site Meta ##
+# The title of the website.
+title: "Merry Merkle - South Africa"
+# The description of the website
+description: "A collection of impressions from Merry Merkle South Africa 2018."
+# Keywords/tags for you site.
+keywords: "africa, south-africa, merry-merkle, ethereum, african-angels, cintsa, status"
+# Your copyright message.
+copyright: "Copyright &copy; 2018 - Merry Merkle."
+
+## Site Configurations ##
+# 1st heading of the site.
+header: "Merry Merkle"
+# 2nd heading/sub heading of the website.
+subheader: "South Africa"
+# A description/bio of the website.
+bio: "A collection of impressions from Merry Merkle South Africa 2018."
+social:
+  # Your Twitter username.
+  twitter_username: "MerryMerkleSouthAfrica"
+  # Your Instagram username.
+  instagram_username: ""
+  # GitHub username.
+  github_username: "Gabriellemic"
+  # Your email address.
+  email: ""
+
+## Gallery Configuration ##
+# If you modify this, also modify the `default.scope.path` key below.
+gallery_dir: "gallery"
+# Any valid value of "background-position" CSS attribute.
+image_position: "left center"
+
+## Jekyll Configuration ##
+defaults:
+ - scope:
+    # Should be same as the `gallery_dir` key above.
+    path: "gallery"
+   values:
+    image: true
