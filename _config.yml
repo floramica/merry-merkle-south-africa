@@ -10,11 +10,11 @@ copyright: "Copyright &copy; 2018 - Merry Merkle."
 
 ## Site Configurations ##
 # 1st heading of the site.
-header: "African Angels with Ethereum"
+header: "African Angels + Ethereum"
 # 2nd heading/sub heading of the website.
 subheader: "Merry Merkle South Africa"
 # A description/bio of the website.
-bio: "A collection of impressions from Merry Merkle in Cintsa, South Africa in December 2018. For more visit merrymerkle.africa"
+bio: "A collection of impressions from Merry Merkle in Cintsa, South Africa in December 2018. For more visit <a href="https://merrymerkle.africa">merrymerkle.africa</a>"
 social:
   # Your Twitter username.
   twitter_username: "MerkleMerry"
@@ -29,7 +29,7 @@ social:
 # If you modify this, also modify the `default.scope.path` key below.
 gallery_dir: "gallery"
 # Any valid value of "background-position" CSS attribute.
-image_position: "left center"
+image_position: "center"
 
 ## Jekyll Configuration ##
 defaults:
